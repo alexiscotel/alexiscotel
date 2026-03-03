@@ -51,10 +51,7 @@ Développeur web depuis plus de 10 ans, je travaille principalement avec **Symfo
 ## 📂 Projets mis en avant
 
 ### 🎵 Calzone Records  
-> Full‑stack + DevOps : Docker, Traefik, Authelia, Redis, Postgres, RabbitMQ, MinIO, Symfony 7, Angular 17, Cypress  
-<p>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Z2bGZ2bGZ2bGZ2bGZ2bGZ2bGZ2bGZ2bGZ2bGZ2/g9582DNuQppxC/giphy.gif" width="200"/>
-</p>
+> Full‑stack + DevOps : Docker, Traefik, Authelia, Redis, Postgres, RabbitMQ, MinIO, Symfony 7, Angular 17, Cypress
 
 ### 🏘️ Looking4Flat  
 > Centralisation d’annonces immobilières — refonte en cours (Node + Angular → mobile)
