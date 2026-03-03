@@ -1,29 +1,7 @@
-## Hi there 👋
-
-<!--
-**alexiscotel/alexiscotel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- Banner animé -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJ4bWZ5a2Z6bGZ2bGJ3cGZ2bGZ6dGZ2bGZ2bGZ2bGZ2bGZ2/gM5qFksULw54NMWyry/giphy.gif" width="200"/>
-</p>
-
 # 👋 Hey, moi c’est Alexis !
 
 ### Développeur **Full‑Stack** & futur **Ingénieur DevOps**
-📍 Paris / Nantes  
+📍 Nantes
 🌐 Portfolio : **https://alexiscotel.fr**  
 💼 LinkedIn : **https://fr.linkedin.com/in/acotel**
 
@@ -32,8 +10,6 @@ Here are some ideas to get you started:
 ## 🚀 À propos de moi
 
 Développeur web depuis plus de 10 ans, je travaille principalement avec **Symfony**, **Angular**, **Node.js** et j’évolue aujourd’hui vers le **DevOps** : Docker, Traefik, GitLab CI/CD, MinIO, Authelia, Kubernetes (en cours).
-
-🎯 Objectif actuel : **trouver une alternance DevOps** pour devenir un profil hybride dev + infra + automatisation.
 
 ---
 
@@ -86,30 +62,7 @@ Développeur web depuis plus de 10 ans, je travaille principalement avec **Symfo
 ### 🏢 Missions en ESN (Extia, Enedis, Pôle Emploi, Orange)  
 > MCO, évolutions, refontes partielles, projets métiers complexes
 
----
-
-## 📊 Stats GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexiscotel&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexiscotel&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=alexiscotel&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ## 🤝 Me contacter
 
 📬 Via mon site : **https://alexiscotel.fr**  
 💼 LinkedIn : **https://fr.linkedin.com/in/acotel**
-
----
-
-## 😄 Fun fact
-
-> “this is my bio. A bit short, but still here !”  
->  
-> Mais ici, on a mis un peu plus de fun ✨
